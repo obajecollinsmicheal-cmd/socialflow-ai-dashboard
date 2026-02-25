@@ -68,7 +68,8 @@ export enum View {
   MEDIA_LIBRARY = 'MEDIA_LIBRARY',
   INBOX = 'INBOX',
   SETTINGS = 'SETTINGS',
-  PORTFOLIO = 'PORTFOLIO'
+  PORTFOLIO = 'PORTFOLIO',
+  DEVELOPER_TOOLS = 'DEVELOPER_TOOLS'
 }
 
 export interface BlockchainAsset {

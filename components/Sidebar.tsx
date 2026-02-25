@@ -18,6 +18,7 @@ const navItems: NavItem[] = [
   { id: View.MEDIA_LIBRARY, label: 'Media', icon: <MaterialIcon name="photo_library" /> },
   { id: View.INBOX, label: 'Inbox', icon: <MaterialIcon name="inbox" /> },
   { id: View.PORTFOLIO, label: 'Portfolio', icon: <MaterialIcon name="account_balance_wallet" /> },
+  { id: View.DEVELOPER_TOOLS, label: 'Dev Tools', icon: <MaterialIcon name="code" /> },
   { id: View.SETTINGS, label: 'Settings', icon: <MaterialIcon name="settings" /> },
 ];
 
